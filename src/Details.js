@@ -136,7 +136,7 @@ export const projectDetails = [
     description: `The carpooling app project is a full-stack web application built with **Node.js**, **Express.js**, and **MongoDB** for the backend, and **HTML**, **CSS**, and **React.js** for the frontend. The app allows users to create, join, and manage carpool rides efficiently. On the backend, APIs are implemented to handle user authentication, ride creation, and database management. The frontend provides an intuitive user interface, allowing users to easily browse and join available carpool rides. The project emphasizes seamless interaction between the front and back ends, utilizing dynamic features powered by React. With responsive design and optimized user experience, the app aims to promote eco-friendly transportation solutions.`,
     techstack: "HTML , CSS , JavaScript , Reactjs , NodeJs , MongoDB , JWT",
     previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/anujtyagi07/Co-Ride",
   },
   {
     title: "frontend Tourism web page",
